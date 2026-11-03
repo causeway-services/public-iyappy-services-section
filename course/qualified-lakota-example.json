@@ -1,0 +1,91 @@
+{
+  "type": "QualifiedLakotaSvgExample",
+  "language": "lkt",
+  "surface": "wačhíŋ",
+  "roots": {
+    "locator": "ni:///sha-256;up0FMitJlobNNfiAkJMWfTsIkR0xEuUvVe4Lz-GZb0E",
+    "record": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754",
+    "entry": "ni:///sha-256;XOE6GNNJYa21UiiK-r6rQXSn-WnOokxwWOKpVLI3lU8",
+    "generation": "ni:///sha-256;oHyY4S0Tmoc92jgnSeEWPf8POoa9DBCNgbtoWk7FRJo",
+    "structure": "ni:///sha-256;hN55Mg-yICeMzwSWykZIQuSlejhByUgX8lsueSUM-2s",
+    "path": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ",
+    "reading": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+  },
+  "svgForm": {
+    "kind": "cell",
+    "items": [
+      {
+        "kind": "sym",
+        "name": "quote"
+      },
+      {
+        "kind": "cell",
+        "items": [
+          {
+            "kind": "sym",
+            "name": "qualified-reading"
+          },
+          {
+            "kind": "str",
+            "value": "wačhíŋ"
+          },
+          {
+            "kind": "str",
+            "value": "lkt"
+          },
+          {
+            "kind": "str",
+            "value": "ni:///sha-256;ic2B7cXrG3wM_AJ5QH6Og-HsnXeCDpm4CrnWRJIFBCk"
+          },
+          {
+            "kind": "str",
+            "value": "ni:///sha-256;uVCDYa1TF4JIj-zxy-vOV4_5xc4ZkmQt3lPq0tL_BTQ"
+          },
+          {
+            "kind": "str",
+            "value": "ni:///sha-256;X8wdCFrrh-7gGLGHS-aeJkfVzKnskLaial3ugZij754"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "repository": "red-cup-engineering/lakota-language-corpus",
+    "revision": "0113c4eaf7ecea4a7908c079dbd409682cf14482",
+    "path": "data/corpus.jsonl",
+    "line": 1,
+    "gitBlobSha": "cf05fb61fccbccdc4483a42d71212e26f63b6d23",
+    "url": "https://github.com/red-cup-engineering/lakota-language-corpus/blob/0113c4eaf7ecea4a7908c079dbd409682cf14482/data/corpus.jsonl",
+    "label": "Supplied Lakota corpus: data/corpus.jsonl, line 1"
+  },
+  "files": [
+    {
+      "source": "course/lakota-operational-reading.json",
+      "path": "data/lakota-operational-reading.json",
+      "mediaType": "application/json",
+      "bytes": 31386,
+      "sha256": "af49a679e1b6c0e683eb6709d096184a108b33a5019d4200e66300a78cda6ae0"
+    },
+    {
+      "source": "course/lakota-operational-reading.nq",
+      "path": "data/lakota-operational-reading.nq",
+      "mediaType": "application/n-quads",
+      "bytes": 1924,
+      "sha256": "312dbc9358605d36afb20ed253bb3d9a46e6e733750f515dd0d8e5692bc7741d"
+    },
+    {
+      "source": "course/lakota-operational-reading.svg",
+      "path": "data/lakota-operational-reading.svg",
+      "mediaType": "image/svg+xml",
+      "bytes": 2020,
+      "sha256": "d7014944e4619653254895c6dfe28125b2eff437ce0d2a811590ca77ba695bd2"
+    },
+    {
+      "source": "course/lakota-operational-sparql.json",
+      "path": "data/lakota-operational-sparql.json",
+      "mediaType": "application/json",
+      "bytes": 4500,
+      "sha256": "669f305905e53e55c7468afdb0b7d53db435867752b6673875f49c05b4ac48cb"
+    }
+  ]
+}
