@@ -10,7 +10,7 @@ iYappy is the **general multilingual language-learning product**. Its first publ
 
 The product goal is that a learner can choose an actually available language, learn something useful, practice **understanding and producing**, receive appropriate feedback, independently resume and review, and demonstrate retained or transferable communicative skill. Exercise recognition, long-term recall, speaking, listening, free production, sentence meaning and human judgment remain distinct evidence. The learner should be able to inspect and transport their history.
 
-Existing building blocks are the public program charter, Red Cup education-platform-service, the per-language communicating fibers with explicit maturity evidence, and the personal [Ascent design](https://github.com/causeway-services/emsenn-language-learning-services-section/blob/main/content/text/documents/articles/references/a-system-design-for-language-learning.md). Ascent is relevant prior research, not an alternative public product or evidence of a shipped multilingual curriculum.
+Existing building blocks are the public program charter, Red Cup education-platform-service, the per-language communicating fibers with explicit maturity evidence, and the personal [Ascent design](https://github.com/causeway-services/public-emsenn-language-learning-services-section/blob/main/content/text/documents/articles/references/a-system-design-for-language-learning.md). Ascent is relevant prior research, not an alternative public product or evidence of a shipped multilingual curriculum.
 
 ## 2. What "meet then beat" means here
 
