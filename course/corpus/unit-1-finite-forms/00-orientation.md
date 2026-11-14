@@ -1,15 +1,15 @@
 ---
-title: Six witnessed singular forms
+title: Have your first written conversation
 type: overview
-keywords: ["iyappy", "Lakota", "finite forms", "listening", "prosody"]
+keywords: ["iyappy", "Lakota", "possession", "conversation"]
 ---
 
-This short course practices six singular forms from *LDL 121: Intensive Lakota/Dakota for Beginners*. You will first match a form to its person, then type it from memory. Here, first person means **I**, second person means **you (one person)**, and third person means **he or she (one person)**.
+Your goal is to ask whether someone has an everyday object, answer about yourself, and talk about someone named.
 
-## Hear how speech unfolds
+Start with **Say what you have**. Read a short example, write your own sentence, then use the feedback to improve it. Later tasks change the object or person so you can use the pattern again.
 
-Speech takes time. Listen for grouping, prominence, and places where a speaker finishes or suspends a phrase. These are things to observe, not necessarily regular musical beats or melodies. Word stress and phrase-level pitch can interact in Lakota; see [Mirzayan, *Lakota Intonation and Prosody* (2010)](https://eric.ed.gov/?id=ED523064).
+The course includes twelve everyday objects and three sentence lessons. The **yuhá** and **čhíŋ** form reviews remain available separately.
 
-The listening lab above lets you record yourself or use audio you have permission to study. Set an A–B loop and timestamp only what *you* perceive. These private, session-only notes do not identify correct pronunciation, perform speech recognition or establish a Lakota phonological transcription. Work with speaker-authored materials and knowledgeable speakers when judging pronunciation or interpretation.
+Your progress stays on this device. You can export it below the lesson and import it when you return. A correct answer after feedback counts as assisted practice and returns sooner for review.
 
-This is a focused review of the six forms shown here. It does not teach a general grammar rule or assess pronunciation. Read the source packet at [yuhá, PDF page 20](https://wotakuye.weebly.com/uploads/2/3/7/4/23749479/ldl121_packet.pdf#page=20) and [čhíŋ, PDF page 46](https://wotakuye.weebly.com/uploads/2/3/7/4/23749479/ldl121_packet.pdf#page=46).
+The written patterns come from [LDL 121, printed pages 18–20](https://wotakuye.weebly.com/uploads/2/3/7/4/23749479/ldl121_packet.pdf#page=19), prepared by the Standing Rock Sioux Tribal Department of Education's Lakota/Dakota Language Revitalization Program. This course practices the sourced singular positive constructions. Use speaker-authored audio and a knowledgeable speaker when learning pronunciation.
